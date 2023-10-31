@@ -1,0 +1,63 @@
+1. ¿Cuál es la relación principal entre la memoria RAM y el software en un sistema informático? 
+
+Almacena de forma temporal el código binario de los archivos ejecutables y de datos necesarios.
+Controla la fabricación de productos en la cantidad y tiempo necesarios.
+Recoge nuevos datos desde la entrada y muestra los resultados. 
+Almacena de forma permanente los archivos ejecutables y de datos.
+
+
+2. ¿Qué tipo de mantenimiento de software implica la corrección de defectos en el sistema? 
+
+Correctivo.
+Perfectivo. 
+Evolutivo.
+Adaptativo.
+
+
+3. ¿Cuál es el primer paso del ciclo de vida del software según el modelo en cascada?
+
+Análisis.
+Diseño.
+Codificación.
+Pruebas.
+
+
+4. ¿Cuál es el principal objetivo de las pruebas de software durante el proceso de desarrollo? 
+
+Encontrar la mayor cantidad de defectos posibles. 
+Verificar que el software funcione de acuerdo con los requisitos. 
+Asegurar que el software se desarrolla de manera rápida. 
+Evaluar la documentación técnica y de usuario.
+
+
+5.¿Cuál es la relación entre la CPU y el software en un sistema informático? 
+
+Lee y ejecuta instrucciones almacenadas en memoria RAM. 
+Controla la fabricación de productos en la cantidad y tiempo necesarios.
+Almacena de forma temporal el código binario de los archivos ejecutables y de datos necesarios. 
+Recoge nuevos datos desde la entrada y muestra los resultados.
+
+
+6.¿Cuál es la relación principal entre los periféricos de E/S y el software en un sistema informático?
+
+Recogen nuevos datos desde la entrada y muestran los resultados.
+Almacenan de forma permanente los archivos ejecutables y de datos. 
+Controlan la fabricación de productos en la cantidad y tiempo necesarios. 
+Leen y ejecutan instrucciones almacenadas en memoria RAM.
+
+
+7. ¿Qué etapa del ciclo de vida del software se enfoca en especificar los requisitos que debe cumplir el software a desarrollar? 
+
+Análisis.
+Diseño.
+Codificación.
+Mantenimiento.
+
+
+8. ¿Cuál es el papel del Scrum Master en la metodología Scrum?
+
+Asegurar que se sigue la metodología Scrum y facilitar el trabajo del equipo. 
+Definir los requisitos del producto y asegurarse de que se cumplan. 
+Realizar la codificación del software y asegurar la calidad del código. 
+Coordinar las pruebas y asegurar que el software funcione correctamente.
+
